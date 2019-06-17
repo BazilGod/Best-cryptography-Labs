@@ -1,0 +1,76 @@
+h1 {
+	color: #3399ff;
+	margin: 10px 0px;
+}
+#doublePermutation {
+	font-family: sans-serif;
+	display: inline-block;
+	border: solid 3px orange;
+	padding: 10px;
+	background: #333333;
+}
+#keysBox {
+	border-top: dashed 2px white;
+
+	padding: 2px 0; 
+	color: white;
+}
+#inputDataBox{
+	margin: 20px 0;
+}
+button{
+	display: inline-block;
+	border: solid 2px black;
+	color: white;
+	padding: 10px;
+	margin: 8px 0;
+	font-size: 1.1em;
+}
+#encryptBtn{
+	float: left;
+	background: #ff3333;
+}
+
+#decryptBtn{
+	float: right;
+	background: #66cc00;
+}
+h3 {
+	margin: 10px 0;
+	font-size: 1.3em;
+}
+#inputDataBox h3{
+	color: #ffcc00;
+
+}
+#keysBox h3{
+	color: #9900cc
+}
+#output {
+	display: inline;
+}
+#output table{
+	margin: 0 10px;
+	display: inline;
+	font-size: 1.2em;
+	font-weight: bold;
+	color: white;
+}
+#output table td {
+	background: gray;
+	padding:0;
+	margin: 0;
+	text-align: center;
+}
+#outputLine{
+	
+	margin: 10px 0;
+	font-size: 1.2em;
+	font-weight: bold;
+	color: magenta;
+}
+textarea {
+	font-family: sans-serif;
+	font-size: 1em;
+	display: block;
+}

@@ -1,0 +1,62 @@
+C:\Users\Dmitry\source\repos\ElipticCurve3\ElipticCurve3\bin\Debug\ElipticCurve3.exe.config
+C:\Users\Dmitry\source\repos\ElipticCurve3\ElipticCurve3\bin\Debug\ElipticCurve3.exe
+C:\Users\Dmitry\source\repos\ElipticCurve3\ElipticCurve3\bin\Debug\ElipticCurve3.pdb
+C:\Users\Dmitry\source\repos\ElipticCurve3\ElipticCurve3\obj\Debug\ElipticCurve3.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\ElipticCurve3\ElipticCurve3\obj\Debug\ElipticCurve3.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\ElipticCurve3\ElipticCurve3\obj\Debug\ElipticCurve3.exe
+C:\Users\Dmitry\source\repos\ElipticCurve3\ElipticCurve3\obj\Debug\ElipticCurve3.pdb
+E:\Защита инфы\ElipticCurve3\ElipticCurve3\bin\Debug\ElipticCurve3.exe.config
+E:\Защита инфы\ElipticCurve3\ElipticCurve3\obj\Debug\ElipticCurve3.exe
+E:\Защита инфы\ElipticCurve3\ElipticCurve3\obj\Debug\ElipticCurve3.pdb
+E:\Защита инфы\ElipticCurve3\ElipticCurve3\bin\Debug\ElipticCurve3.exe
+E:\Защита инфы\ElipticCurve3\ElipticCurve3\bin\Debug\ElipticCurve3.pdb
+E:\Защита инфы\ElipticCurve3\ElipticCurve3\obj\Debug\ElipticCurve3.csprojResolveAssemblyReference.cache
+D:\Документы\bstu\Защита инфы\ElipticCurve3\ElipticCurve3\bin\Debug\ElipticCurve3.exe.config
+D:\Документы\bstu\Защита инфы\ElipticCurve3\ElipticCurve3\bin\Debug\ElipticCurve3.exe
+D:\Документы\bstu\Защита инфы\ElipticCurve3\ElipticCurve3\bin\Debug\ElipticCurve3.pdb
+D:\Документы\bstu\Защита инфы\ElipticCurve3\ElipticCurve3\obj\Debug\ElipticCurve3.csprojAssemblyReference.cache
+D:\Документы\bstu\Защита инфы\ElipticCurve3\ElipticCurve3\obj\Debug\ElipticCurve3.csproj.CoreCompileInputs.cache
+D:\Документы\bstu\Защита инфы\ElipticCurve3\ElipticCurve3\obj\Debug\ElipticCurve3.exe
+D:\Документы\bstu\Защита инфы\ElipticCurve3\ElipticCurve3\obj\Debug\ElipticCurve3.pdb
+D:\Документы\bstu\Защита инфы\Lab3-4\ElipticCurve3\bin\Debug\ElipticCurve3.exe.config
+D:\Документы\bstu\Защита инфы\Lab3-4\ElipticCurve3\bin\Debug\ElipticCurve3.exe
+D:\Документы\bstu\Защита инфы\Lab3-4\ElipticCurve3\bin\Debug\ElipticCurve3.pdb
+D:\Документы\bstu\Защита инфы\Lab3-4\ElipticCurve3\obj\Debug\ElipticCurve3.csprojAssemblyReference.cache
+D:\Документы\bstu\Защита инфы\Lab3-4\ElipticCurve3\obj\Debug\ElipticCurve3.csproj.CoreCompileInputs.cache
+D:\Документы\bstu\Защита инфы\Lab3-4\ElipticCurve3\obj\Debug\ElipticCurve3.exe
+D:\Документы\bstu\Защита инфы\Lab3-4\ElipticCurve3\obj\Debug\ElipticCurve3.pdb
+D:\Документы\bstu\Защита инфы\Семестр 2\Lab3-4\ElipticCurve3\bin\Debug\ElipticCurve3.exe.config
+D:\Документы\bstu\Защита инфы\Семестр 2\Lab3-4\ElipticCurve3\bin\Debug\ElipticCurve3.exe
+D:\Документы\bstu\Защита инфы\Семестр 2\Lab3-4\ElipticCurve3\bin\Debug\ElipticCurve3.pdb
+D:\Документы\bstu\Защита инфы\Семестр 2\Lab3-4\ElipticCurve3\obj\Debug\ElipticCurve3.csprojAssemblyReference.cache
+D:\Документы\bstu\Защита инфы\Семестр 2\Lab3-4\ElipticCurve3\obj\Debug\ElipticCurve3.csproj.CoreCompileInputs.cache
+D:\Документы\bstu\Защита инфы\Семестр 2\Lab3-4\ElipticCurve3\obj\Debug\ElipticCurve3.exe
+D:\Документы\bstu\Защита инфы\Семестр 2\Lab3-4\ElipticCurve3\obj\Debug\ElipticCurve3.pdb
+C:\home\study\ЗИ2\ellicptic curves\ElipticCurve3\bin\Debug\ElipticCurve3.exe.config
+C:\home\study\ЗИ2\ellicptic curves\ElipticCurve3\bin\Debug\ElipticCurve3.exe
+C:\home\study\ЗИ2\ellicptic curves\ElipticCurve3\bin\Debug\ElipticCurve3.pdb
+C:\home\study\ЗИ2\ellicptic curves\ElipticCurve3\obj\Debug\ElipticCurve3.csprojAssemblyReference.cache
+C:\home\study\ЗИ2\ellicptic curves\ElipticCurve3\obj\Debug\ElipticCurve3.csproj.CoreCompileInputs.cache
+C:\home\study\ЗИ2\ellicptic curves\ElipticCurve3\obj\Debug\ElipticCurve3.exe
+C:\home\study\ЗИ2\ellicptic curves\ElipticCurve3\obj\Debug\ElipticCurve3.pdb
+D:\Practice\3kurs\2sem\Защита информации и надежность информационных систем\ellicptic curves\ElipticCurve3\bin\Debug\ElipticCurve3.exe.config
+D:\Practice\3kurs\2sem\Защита информации и надежность информационных систем\ellicptic curves\ElipticCurve3\bin\Debug\ElipticCurve3.exe
+D:\Practice\3kurs\2sem\Защита информации и надежность информационных систем\ellicptic curves\ElipticCurve3\bin\Debug\ElipticCurve3.pdb
+D:\Practice\3kurs\2sem\Защита информации и надежность информационных систем\ellicptic curves\ElipticCurve3\obj\Debug\ElipticCurve3.csprojAssemblyReference.cache
+D:\Practice\3kurs\2sem\Защита информации и надежность информационных систем\ellicptic curves\ElipticCurve3\obj\Debug\ElipticCurve3.csproj.CoreCompileInputs.cache
+D:\Practice\3kurs\2sem\Защита информации и надежность информационных систем\ellicptic curves\ElipticCurve3\obj\Debug\ElipticCurve3.exe
+D:\Practice\3kurs\2sem\Защита информации и надежность информационных систем\ellicptic curves\ElipticCurve3\obj\Debug\ElipticCurve3.pdb
+F:\курс3\семестр2\pidarok\Новая папка\ellicptic curves\ElipticCurve3\bin\Debug\ElipticCurve3.exe.config
+F:\курс3\семестр2\pidarok\Новая папка\ellicptic curves\ElipticCurve3\bin\Debug\ElipticCurve3.exe
+F:\курс3\семестр2\pidarok\Новая папка\ellicptic curves\ElipticCurve3\bin\Debug\ElipticCurve3.pdb
+F:\курс3\семестр2\pidarok\Новая папка\ellicptic curves\ElipticCurve3\obj\Debug\ElipticCurve3.csprojAssemblyReference.cache
+F:\курс3\семестр2\pidarok\Новая папка\ellicptic curves\ElipticCurve3\obj\Debug\ElipticCurve3.csproj.CoreCompileInputs.cache
+F:\курс3\семестр2\pidarok\Новая папка\ellicptic curves\ElipticCurve3\obj\Debug\ElipticCurve3.exe
+F:\курс3\семестр2\pidarok\Новая папка\ellicptic curves\ElipticCurve3\obj\Debug\ElipticCurve3.pdb
+E:\Novaya_Papka\ellicptic curves\ElipticCurve3\bin\Debug\ElipticCurve3.exe.config
+E:\Novaya_Papka\ellicptic curves\ElipticCurve3\bin\Debug\ElipticCurve3.exe
+E:\Novaya_Papka\ellicptic curves\ElipticCurve3\bin\Debug\ElipticCurve3.pdb
+E:\Novaya_Papka\ellicptic curves\ElipticCurve3\obj\Debug\ElipticCurve3.csprojAssemblyReference.cache
+E:\Novaya_Papka\ellicptic curves\ElipticCurve3\obj\Debug\ElipticCurve3.csproj.CoreCompileInputs.cache
+E:\Novaya_Papka\ellicptic curves\ElipticCurve3\obj\Debug\ElipticCurve3.exe
+E:\Novaya_Papka\ellicptic curves\ElipticCurve3\obj\Debug\ElipticCurve3.pdb

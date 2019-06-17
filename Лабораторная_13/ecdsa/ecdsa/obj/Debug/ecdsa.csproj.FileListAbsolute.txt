@@ -1,0 +1,14 @@
+D:\Practice\3kurs\2sem\Защита информации и надежность информационных систем\ecdsa\ecdsa\bin\Debug\ecdsa.exe.config
+D:\Practice\3kurs\2sem\Защита информации и надежность информационных систем\ecdsa\ecdsa\bin\Debug\ecdsa.exe
+D:\Practice\3kurs\2sem\Защита информации и надежность информационных систем\ecdsa\ecdsa\bin\Debug\ecdsa.pdb
+D:\Practice\3kurs\2sem\Защита информации и надежность информационных систем\ecdsa\ecdsa\obj\Debug\ecdsa.csprojAssemblyReference.cache
+D:\Practice\3kurs\2sem\Защита информации и надежность информационных систем\ecdsa\ecdsa\obj\Debug\ecdsa.csproj.CoreCompileInputs.cache
+D:\Practice\3kurs\2sem\Защита информации и надежность информационных систем\ecdsa\ecdsa\obj\Debug\ecdsa.exe
+D:\Practice\3kurs\2sem\Защита информации и надежность информационных систем\ecdsa\ecdsa\obj\Debug\ecdsa.pdb
+F:\курс3\семестр2\pidarok\Новая папка\ecdsa\ecdsa\bin\Debug\ecdsa.exe.config
+F:\курс3\семестр2\pidarok\Новая папка\ecdsa\ecdsa\bin\Debug\ecdsa.exe
+F:\курс3\семестр2\pidarok\Новая папка\ecdsa\ecdsa\bin\Debug\ecdsa.pdb
+F:\курс3\семестр2\pidarok\Новая папка\ecdsa\ecdsa\obj\Debug\ecdsa.csprojAssemblyReference.cache
+F:\курс3\семестр2\pidarok\Новая папка\ecdsa\ecdsa\obj\Debug\ecdsa.csproj.CoreCompileInputs.cache
+F:\курс3\семестр2\pidarok\Новая папка\ecdsa\ecdsa\obj\Debug\ecdsa.exe
+F:\курс3\семестр2\pidarok\Новая папка\ecdsa\ecdsa\obj\Debug\ecdsa.pdb

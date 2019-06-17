@@ -1,0 +1,11 @@
+﻿var A,M,P,k,l;
+const cons=4.32 * Math.pow(10,4);
+A=16;
+l1=32;
+l2=64;
+M=2;
+k=1;
+var res=cons*k*M/Math.pow(A,l1);
+var res2=cons*k*M/Math.pow(A,l2);
+console.log("Вероятность  взлома MD5 в течение " + M + " месяцев: ", res); 
+console.log("Вероятность  взлома MD5 в течение " + M + " месяцев: ", res2); 

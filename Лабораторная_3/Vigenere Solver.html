@@ -1,0 +1,33 @@
+<Html>
+    <Head>
+        <Title>Генератор</Title>
+        <script language='javascript'>
+            function gen ( minLength,maxLength, symbols)
+            {
+                var result = new Array ();
+                for (var length = minLength; length <= maxLength; length++)
+                    for (var symbNumber = 0; symbNumber < symbols.length; symbNumber++)
+                    {
+                        var thisElement = symbols.substring (symbNumber, symbNumber+1);
+                        if (length < 2)
+                            result[result.length] = thisElement;          
+                        else
+                        {
+                            var apendix = gen (length-1, length-1, symbols);
+                            for (apendixSymbNumber = 0; apendixSymbNumber < apendix.length; apendixSymbNumber++)
+                                result[result.length] = thisElement +''+ apendix[apendixSymbNumber];
+                        }
+
+                    }
+                return (result);
+            }
+        </script>
+    </Head>
+  
+ <Body>
+        <script language='javascript'>
+            var result = gen (3,3, 'abcdefghijklmnopqrstuvwxyz');
+            document.write (result.join ('<Br>'))
+        </script>
+    </Body>
+</Html>

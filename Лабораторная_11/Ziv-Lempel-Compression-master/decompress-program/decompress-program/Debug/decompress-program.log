@@ -1,0 +1,33 @@
+﻿  decompressLZW.cpp
+d:\6sem\криптографические методы защиты информации\лабораторная_11\ziv-lempel-compression-master\decompress-program\decompress-program\decompresslzw.cpp(38): warning C4018: <: несоответствие типов со знаком и без знака
+d:\6sem\криптографические методы защиты информации\лабораторная_11\ziv-lempel-compression-master\decompress-program\decompress-program\hashtable.h(99): warning C4018: >=: несоответствие типов со знаком и без знака
+  d:\6sem\криптографические методы защиты информации\лабораторная_11\ziv-lempel-compression-master\decompress-program\decompress-program\hashtable.h(92): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\6sem\криптографические методы защиты информации\лабораторная_11\ziv-lempel-compression-master\decompress-program\decompress-program\decompresslzw.cpp(14): note: выполняется компиляция ссылки на экземпляр шаблон функции "void HashTable<std::string>::insert(const HashedObj &)"
+          with
+          [
+              HashedObj=std::string
+          ]
+  d:\6sem\криптографические методы защиты информации\лабораторная_11\ziv-lempel-compression-master\decompress-program\decompress-program\decompresslzw.cpp(14): note: выполняется компиляция ссылки на экземпляр шаблон класс "HashTable<std::string>"
+d:\6sem\криптографические методы защиты информации\лабораторная_11\ziv-lempel-compression-master\decompress-program\decompress-program\hashtable.h(80): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\6sem\криптографические методы защиты информации\лабораторная_11\ziv-lempel-compression-master\decompress-program\decompress-program\hashtable.h(79): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\6sem\криптографические методы защиты информации\лабораторная_11\ziv-lempel-compression-master\decompress-program\decompress-program\hashtable.h(93): note: выполняется компиляция ссылки на экземпляр шаблон функции "const int &HashTable<std::string>::find(const HashedObj &) const"
+          with
+          [
+              HashedObj=std::string
+          ]
+  d:\6sem\криптографические методы защиты информации\лабораторная_11\ziv-lempel-compression-master\decompress-program\decompress-program\hashtable.h(71): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\6sem\криптографические методы защиты информации\лабораторная_11\ziv-lempel-compression-master\decompress-program\decompress-program\decompresslzw.cpp(21): note: выполняется компиляция ссылки на экземпляр шаблон функции "HashTable<std::string>::HashTable(const HashedObj &,int)"
+          with
+          [
+              HashedObj=std::string
+          ]
+d:\6sem\криптографические методы защиты информации\лабораторная_11\ziv-lempel-compression-master\decompress-program\decompress-program\hashtable.h(140): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\6sem\криптографические методы защиты информации\лабораторная_11\ziv-lempel-compression-master\decompress-program\decompress-program\hashtable.h(139): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\6sem\криптографические методы защиты информации\лабораторная_11\ziv-lempel-compression-master\decompress-program\decompress-program\hashtable.h(73): note: выполняется компиляция ссылки на экземпляр шаблон функции "void HashTable<std::string>::makeEmpty(void)"
+d:\6sem\криптографические методы защиты информации\лабораторная_11\ziv-lempel-compression-master\decompress-program\decompress-program\hashtable.h(125): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\6sem\криптографические методы защиты информации\лабораторная_11\ziv-lempel-compression-master\decompress-program\decompress-program\hashtable.h(120): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\6sem\криптографические методы защиты информации\лабораторная_11\ziv-lempel-compression-master\decompress-program\decompress-program\hashtable.h(101): note: выполняется компиляция ссылки на экземпляр шаблон функции "void HashTable<std::string>::rehash(void)"
+d:\6sem\криптографические методы защиты информации\лабораторная_11\ziv-lempel-compression-master\decompress-program\decompress-program\hashtable.h(131): warning C4018: <: несоответствие типов со знаком и без знака
+d:\6sem\криптографические методы защиты информации\лабораторная_11\ziv-lempel-compression-master\decompress-program\decompress-program\hashtable.h(84): warning C4172: возвращение адреса локальной или временной переменной : i
+d:\6sem\криптографические методы защиты информации\лабораторная_11\ziv-lempel-compression-master\decompress-program\decompress-program\hashtable.h(87): warning C4172: возвращение адреса локальной или временной переменной
+  decompress-program.vcxproj -> D:\6sem\Криптографические методы защиты информации\Лабораторная_11\Ziv-Lempel-Compression-master\decompress-program\Debug\decompress-program.exe

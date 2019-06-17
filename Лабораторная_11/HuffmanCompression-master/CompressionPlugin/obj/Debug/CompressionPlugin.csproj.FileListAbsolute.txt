@@ -1,0 +1,11 @@
+C:\Users\HongNgoc\Documents\ESIEE\E5\DotNet\ESIEE Loader\Plugins\CompressionPlugin\CompressionPlugin\obj\Debug\CompressionPlugin.csprojResolveAssemblyReference.cache
+C:\Users\HongNgoc\Documents\ESIEE\E5\DotNet\ESIEE Loader\Plugins\CompressionPlugin\CompressionPlugin\bin\Debug\CompressionPlugin.dll
+C:\Users\HongNgoc\Documents\ESIEE\E5\DotNet\ESIEE Loader\Plugins\CompressionPlugin\CompressionPlugin\bin\Debug\CompressionPlugin.pdb
+C:\Users\HongNgoc\Documents\ESIEE\E5\DotNet\ESIEE Loader\Plugins\CompressionPlugin\CompressionPlugin\bin\Debug\HuffmanData.dll
+C:\Users\HongNgoc\Documents\ESIEE\E5\DotNet\ESIEE Loader\Plugins\CompressionPlugin\CompressionPlugin\obj\Debug\CompressionPlugin.dll
+C:\Users\HongNgoc\Documents\ESIEE\E5\DotNet\ESIEE Loader\Plugins\CompressionPlugin\CompressionPlugin\obj\Debug\CompressionPlugin.pdb
+C:\Users\Martin\Documents\GitHub\HuffmanCompression\CompressionPlugin\bin\Debug\CompressionPlugin.dll
+C:\Users\Martin\Documents\GitHub\HuffmanCompression\CompressionPlugin\bin\Debug\CompressionPlugin.pdb
+C:\Users\Martin\Documents\GitHub\HuffmanCompression\CompressionPlugin\obj\Debug\CompressionPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\HuffmanCompression\CompressionPlugin\obj\Debug\CompressionPlugin.dll
+C:\Users\Martin\Documents\GitHub\HuffmanCompression\CompressionPlugin\obj\Debug\CompressionPlugin.pdb

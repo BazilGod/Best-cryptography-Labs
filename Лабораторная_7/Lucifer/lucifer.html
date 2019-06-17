@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>LUCIFER Cipher</title>
+  </head>
+  <body>
+    <header>
+      <h1>Lucifer Cipher Encoder/Decoder</h1>
+      <h4>Coded by Miles07 (Michael A. West), v1.0r.2b &copy; 27 Mar 2016 (UTC)</h4>
+    </header>
+    <section class="input-section">
+      <form autocomplete="off">
+        <p>
+          <strong>For all text inputs: use HEX.</strong> Input fields limited to 32 characters (16 bytes) each.<br>
+          Make sure to convert your ASCII key into HEX <em>first</em>, before plugging it into this page.
+        </p>
+        Message: <input id="input_msg" type="text" name="msg" size="40" maxlength="32" pattern="^([0-9A-Fa-f]{2})+$" required value="b32b003a35badd66577c24c14fc91906"> (default is the first line of HALOS)<br>
+        <br>
+        Key: <input id="input_key" type="text" name="key" size="40" maxlength="32" pattern="^([0-9A-Fa-f]{2})+$" required> (HINT: If using a key shorter than 32 hex characters, fill the end with 0's.)<br>
+        <br>
+        <input type="radio" name="dir" value="en"> Encode<br>
+        <input type="radio" name="dir" value="de" checked> Decode<br>
+        <button id="btn_activate" type="button" onclick="fire()" disabled>Fire</button><br>
+      </form>
+      <hr>
+      <p>
+        Some test values:<br>
+        Message: <tt>fedcba98765432100123456789abcdef</tt> - Key: <tt>0123456789abcdef0123456789abcdef</tt> - Set to <tt>ENCODE</tt><br>
+        Ciphered text should be <tt>8d42b2ad412d36e12c014a3ca553b88d</tt>.<br>
+        Enter this ciphered text into the Message field, and set to <tt>DECODE</tt>. You should have the original message.<br>
+        Good luck!
+      </p>
+      <hr>
+    </section>
+    <hr>
+    <section class="output-section">
+      Result:<br>
+      <textarea id="output_result" name="result" rows="10" cols="40" readonly></textarea>
+    </section>
+    
+    <!-- SCRIPTS -->
+    <script src="jquery.min.js"></script>
+    <script src="lucifer.js"></script>
+    <script>
+      $("#input_msg, #input_key").change(function(e) {
+        //console.log('change', e);
+        if ($("#input_key").val().length === 32 && $("#input_msg").val().length === 32) {
+          if ($("#btn_activate[disabled]").length > 0) $("#btn_activate").removeAttr("disabled");
+        } else {
+          if ($("#btn_activate[disabled]").length > 0) $("#btn_activate").attr("disabled", "true");
+        }
+      });
+      
+      function fire() {
+        var dir = $("input[type=radio]:checked").val() == "en" ? luciferjs.encipher : luciferjs.decipher;
+        //console.log('message', $("#input_msg").val());
+        //console.log('key', $("#input_key").val());
+        //console.log('dir', $("input[type=radio]:checked").val() + 'cipher', dir);
+        
+        // begin conversions to binary
+        luciferjs.keyConversion($("#input_key").val());
+        luciferjs.msgConversion($("#input_msg").val());
+        
+        // test to see if hex-to-binary conversion and binary-to-hex conversion of key and message ACTUALLY WORK
+        /*
+        var key_test = luciferjs.keyReversion();
+        console.log('key_test', key_test);
+        
+        var msg_test = luciferjs.msgReversion();
+        console.log('msg_test', msg_test);
+        */
+        
+        // invoke lucifer
+        luciferjs.run(dir);
+        var success = luciferjs.msgReversion();
+        //console.log('success', success);
+        
+        // return output to $("#output_result")
+        $("#output_result").val(success);
+      }
+      
+      $(document).ready(function() {
+        console.log("First line of HALOS:","b32b003a35badd66577c24c14fc91906");
+        $("#output_result").val('');
+      });
+    </script>
+  </body>
+</html>

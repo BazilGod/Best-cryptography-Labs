@@ -1,0 +1,31 @@
+<HTML>
+	<meta charset="UTF-8">
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<script src="script.js"> </script>
+	</head>
+	<BODY>
+		<div id="doublePermutation">
+			<h1>Перестановка</h1>
+			<div id="keysBox">	
+				<h3>Ключи</h3>
+				по столбцам: <input value="32145" id="colsKey" size="9" maxlength="9"/> 
+				по строкам: <input value="13245" id="rowsKey" size="9" maxlength="9"/>
+			</div>
+			<div id="inputDataBox">
+				<h3>Исходное сообщение</h3> 
+				<textarea id="inputMessage" maxlength="81" rows="3" cols="50">expression too complicated</textarea> 
+			</div>
+			<div id="outputLine">
+
+			</div>
+			<div id="output">
+
+			</div>
+			<div id="buttonbox">
+				<button id="encryptBtn" onclick="process('encrypt')">Зашифровать</button>
+				<button id="decryptBtn" onclick="process('decrypt')">Расшифровать</button>
+			</div>
+		</div>
+	</BODY>
+</HTML>
